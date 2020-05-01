@@ -1,0 +1,1 @@
+This is a simple python notebook that implements Euler, Improved Euler, and RK4 approximations to differential equations
